@@ -27,7 +27,10 @@
 </p>
 <!--Trophy-->
 <div align=center>
-  <img src="https://github-profile-trophy.vercel.app/?username=samarjitsahoo&no-bg=true&no-frame=true&row=2&column=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=samarjitsahoo&no-bg=true&no-frame=true&title=MultiLanguage,Organizations,Commits,Followers&row=1&column=4"/>
+</div>
+<div align=center>
+<img src="https://github-profile-trophy.vercel.app/?username=samarjitsahoo&no-bg=true&no-frame=true&title=Stars,Issues,PullRequest&row=1&column=3"/>
 </div>
 <div align="center">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=samarjitsahoo&theme=transparent" height="180em" alt="Stats"/>
